@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1025980977338",
+    "firebase_url": "https://noteapp-32d4c-default-rtdb.firebaseio.com",
+    "project_id": "noteapp-32d4c",
+    "storage_bucket": "noteapp-32d4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025980977338:android:9783d35995bfc86d663283",
+        "android_client_info": {
+          "package_name": "com.example.noteapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJhrZqY0GuTuGOrp2vFhqcMaYS_4MARk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

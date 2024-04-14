@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/bar_search"
+        android:icon="@drawable/search_svgrepo_com"
+        app:showAsAction="ifRoom|collapseActionView"
+        app:actionViewClass="android.widget.SearchView"
+        android:title="Search"
+        ></item>
+    <item
+        android:id="@+id/mi_logout"
+        android:title="Log out"
+        ></item>
+</menu>
